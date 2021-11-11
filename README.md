@@ -7,21 +7,21 @@ Em termos práticos, espera-se promover a integração do conhecimento da biodiv
 O INCTEECBio está divido em 8 grupos temáticos, cada grupo possui um repositório que pode ser acessado pelos links abaixo:
 
 
-![**Macroecologia e Macroevolução**](https://github.com/orgs/INCT-EECBio/teams/macroecology-and-macroecolution/repositories)
+[**Macroecologia e Macroevolução**](https://github.com/orgs/INCT-EECBio/teams/macroecology-and-macroecolution/repositories)
 
-![**Avanços teóricos e metodológicos em Ecologia de Comunidades**](https://github.com/orgs/INCT-EECBio/teams/community-ecology/repositories)
+[**Avanços teóricos e metodológicos em Ecologia de Comunidades**](https://github.com/orgs/INCT-EECBio/teams/community-ecology/repositories)
 
-![**Modelos de Nicho Ecológico e Mudanças Climáticas**](https://github.com/orgs/INCT-EECBio/teams/ecological-niche-modeling-and-climate-change/repositories)
+[**Modelos de Nicho Ecológico e Mudanças Climáticas**](https://github.com/orgs/INCT-EECBio/teams/ecological-niche-modeling-and-climate-change/repositories)
 
-![**Genética e Genômica**](https://github.com/orgs/INCT-EECBio/teams/genetic-and-evolutionary-genomic/repositories)
+[**Genética e Genômica**](https://github.com/orgs/INCT-EECBio/teams/genetic-and-evolutionary-genomic/repositories)
 
 ![**Diversidade Funcional e Ecossistemas**](https://github.com/orgs/INCT-EECBio/teams/functional-diversity-and-ecosystems/repositories)
 
-![**Conservação da biodiversidade e serviços ecossistêmicos**](https://github.com/orgs/INCT-EECBio/teams/biodiversity-conservation-and-ecosystem-services)
+[**Conservação da biodiversidade e serviços ecossistêmicos**](https://github.com/orgs/INCT-EECBio/teams/biodiversity-conservation-and-ecosystem-services)
 
-![**Monitoramento acustico automatizado em larga escala de anfíbios anuros**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
+[**Monitoramento acustico automatizado em larga escala de anfíbios anuros**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
 
-![**Ecologia Aquática**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
+[**Ecologia Aquática**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
 
 
 

@@ -29,5 +29,5 @@ O INCT-EECBio está divido em 8 grupos temáticos, cada grupo possui repositóri
 
 [**Ecologia Aquática**](https://github.com/topics/incteecbio-freshwater)
 
-A organização com todos os repositórios pode ser encontrada [aqui](github.com/org/INCT-EECBio).
+A organização com todos os repositórios pode ser encontrada [aqui](https://github.com/INCT-EECBio).
 

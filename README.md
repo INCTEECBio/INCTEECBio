@@ -15,7 +15,7 @@ O INCTEECBio está divido em 8 grupos temáticos, cada grupo possui um repositó
 
 [**Genética e Genômica**](https://github.com/orgs/INCT-EECBio/teams/genetic-and-evolutionary-genomic/repositories)
 
-![**Diversidade Funcional e Ecossistemas**](https://github.com/orgs/INCT-EECBio/teams/functional-diversity-and-ecosystems/repositories)
+[**Diversidade Funcional e Ecossistemas**](https://github.com/orgs/INCT-EECBio/teams/functional-diversity-and-ecosystems/repositories)
 
 [**Conservação da biodiversidade e serviços ecossistêmicos**](https://github.com/orgs/INCT-EECBio/teams/biodiversity-conservation-and-ecosystem-services)
 

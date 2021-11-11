@@ -10,22 +10,24 @@ O <a href="https://www.eecbio.ufg.br">Instituto Nacional de Ciência & Tecnologi
 Em termos práticos, espera-se promover a integração do conhecimento da biodiversidade em diferentes escalas espaciais, temporais e níveis da hierarquia biológica, por meio do desenvolvimento, aplicação, avaliação e divulgação de métodos inovadores para a obtenção e análise de dados em biodiversidade. Visa-se assim uma melhor compreensão dos padrões e processos ecológicos e evolutivos envolvidos na origem e manutenção da biodiversidade, bem como a otimização de estratégias para sua conservação com base em evidências sobre efeitos antrópicos, especialmente causados por mudanças climáticas, invasões biológicas e mudanças no uso do solo. Ao mesmo tempo, espera-se que a integração de pesquisadores e estudantes por meio do EECBio melhore a capacitação de profissionais atuando nas diferentes áreas da biodiversidade no Brasil.
 </p>
 
-O INCT-EECBio está divido em 8 grupos temáticos, cada grupo possui um repositório que pode ser acessado pelos links abaixo:
+O INCT-EECBio está divido em 8 grupos temáticos, cada grupo possui repositórios que podem ser acessados pelos links abaixo:
 
 
-[**Macroecologia e Macroevolução**](https://github.com/orgs/INCT-EECBio/teams/macroecology-and-macroecolution/repositories)
+[**Macroecologia e Macroevolução**](https://github.com/topics/incteecbio-macroecology)
 
-[**Avanços Teóricos e Metodológicos em Ecologia de Comunidades**](https://github.com/orgs/INCT-EECBio/teams/community-ecology/repositories)
+[**Avanços Teóricos e Metodológicos em Ecologia de Comunidades**](https://github.com/topics/incteecbio-community-ecology)
 
-[**Modelos de Nicho Ecológico e Mudanças Climáticas**](https://github.com/orgs/INCT-EECBio/teams/ecological-niche-modeling-and-climate-change/repositories)
+[**Modelos de Nicho Ecológico e Mudanças Climáticas**](https://github.com/topics/incteecbio-niche-modeling)
 
-[**Genética e Genômica Evolutiva**](https://github.com/orgs/INCT-EECBio/teams/genetic-and-evolutionary-genomic/repositories)
+[**Genética e Genômica Evolutiva**](https://github.com/topics/incteecbio-genetics)
 
-[**Diversidade Funcional e Ecossistemas**](https://github.com/orgs/INCT-EECBio/teams/functional-diversity-and-ecosystems/repositories)
+[**Diversidade Funcional e Ecossistemas**](https://github.com/topics/incteecbio-ecosystem)
 
-[**Conservação da Biodiversidade e Serviços Ecossistêmicos**](https://github.com/orgs/INCT-EECBio/teams/biodiversity-conservation-and-ecosystem-services)
+[**Conservação da Biodiversidade e Serviços Ecossistêmicos**](https://github.com/topics/incteecbio-conservation)
 
-[**Monitoramento Acústico Automatizado em Larga Escala de Anfíbios Anuros**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
+[**Monitoramento Acústico Automatizado em Larga Escala de Anfíbios Anuros**](https://github.com/topics/incteecbio-acoustic)
 
-[**Ecologia Aquática**](https://github.com/orgs/INCT-EECBio/teams/acoustic-monitoring/repositories)
+[**Ecologia Aquática**](https://github.com/topics/incteecbio-freshwater)
+
+A organização com todos os repositórios pode ser encontrada [aqui](github.com/INCT-EECBio).
 
